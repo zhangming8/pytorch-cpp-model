@@ -3,7 +3,7 @@
 环境：ubuntu16.04, python3, torch==1.0.0, cuda9
 首先源码安装opencv和libtorch（https://github.com/apachecn/pytorch-doc-zh/blob/master/docs/1.0/cpp_export.md）
 
-
+对应博客https://blog.csdn.net/u010397980/article/details/89437628
 更改代码中的路径再执行
 1. python3 create_model.py
 2. sh make_script.sh 
